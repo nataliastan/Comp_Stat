@@ -1,5 +1,6 @@
-# Comp_Stat
+# Computational Statistics Project
 HSMW-Comp.Stat.-Project
+
 The main objective of my statistical analysis is to determine if the nominees and
 winners of the Academy Awards follow any zodiacal patterns, i.e. if
 there is a sign that is most likely to win/be nominated and what are the most
